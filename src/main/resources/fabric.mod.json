@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "id": "weedmod",
+  "version": "${version}",
+  "name": "Weed Mod",
+  "description": "A mod which adds marijuana to Minecraft",
+  "authors": [
+    "Woovie"
+  ],
+  "contact": {
+    "website": "https://github.com/woovie",
+    "repo": "https://github.com/woovie"
+  },
+  "license": "MIT",
+  "icon": "assets/weedmod/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "net.woovie.weedmod.client.WeedmodClient"
+    ],
+    "main": [
+      "net.woovie.weedmod.Weedmod"
+    ]
+  },
+  "mixins": [
+    "weedmod.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.14.9",
+    "fabric": "*",
+    "minecraft": "1.19.2"
+  }
+}

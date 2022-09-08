@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/crop",
+  "textures": {
+    "crop": "weedmod:block/weed_crop_stage0"
+  }
+}

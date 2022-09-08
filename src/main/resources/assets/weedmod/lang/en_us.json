@@ -1,0 +1,11 @@
+{
+  "itemGroup.weedmod.group": "Weed Mod",
+  "item.weedmod.weed_fertilizer": "Fertilizer",
+  "item.weedmod.weed_flower":  "Marijuana Flower",
+  "item.weedmod.weed_hemp": "Hemp",
+  "item.weedmod.weed_hemp_paper": "Hemp Paper",
+  "item.weedmod.weed_joint": "Joint",
+  "item.weedmod.weed_leaf": "Marijuana Leaf",
+  "item.weedmod.weed_seed": "Marijuana Seeds",
+  "block.weedmod.weed_jar": "Dry Goods Jar"
+}
